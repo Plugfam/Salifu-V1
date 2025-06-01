@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
-    <img alt=Support weight="10" src="https://files.catbox.moe/gnabcq.jpg"> 
+    <img alt=Support weight="10" src="https://files.catbox.moe/rqb2t6.jpg"> 
     </p>
 <h1 align="center">Salifu-V1</h1>
 <p align="center"> 
