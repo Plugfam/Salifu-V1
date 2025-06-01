@@ -68,7 +68,7 @@ npm start
 
 ## FOR STARTING TERMUX AGAIN
 ```
-cd /storage/emulated/0/Download/ELITE-PRO-V1-main
+cd /storage/emulated/0/Download/Salifu-V1-main
 npm start
 ```
 ---
