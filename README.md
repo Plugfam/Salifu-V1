@@ -17,7 +17,7 @@
   </a>
 </p>
       
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+ELITE+PRO+V1+REPO+MADE+BY;CHINWO+CHINEDU+EMMANUEL;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+SALIFU+V1+REPO+MADE+BY;KARIM+SALIFU;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
    
  ---
 
@@ -84,7 +84,7 @@ Paste this after the installation
 <p align="Left">
     <a align="center">
   <a aria-label="WEBSITE" href="https://https://plugfam-kappa.vercel.app//" target="_blank">
-    <img alt="ELITEPRO-WEB" src="https://img.shields.io/badge/ELITEPRO WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+    <img alt="pkugfam-WEB" src="https://img.shields.io/badge/plugfam WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
 <a aria-label="OTHER REPO" href="https://github.com/plugfam/Salifu-V1" target="_blank">
     <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
@@ -94,7 +94,7 @@ Paste this after the installation
 ---
 
   ## DESCRIPTION
-I'm Salifu-V1 a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
+I'm Salifu-V1 a public WhatsApp bot with rich features Created by karimsalifu. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
