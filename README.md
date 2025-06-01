@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
-    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
+    <img alt=Support weight="10" src="https://files.catbox.moe/gnabcq.jpg"> 
     </p>
 <h1 align="center">Salifu-V1</h1>
 <p align="center"> 
@@ -84,7 +84,7 @@ Paste this after the installation
 <p align="Left">
     <a align="center">
   <a aria-label="WEBSITE" href="https://https://plugfam-kappa.vercel.app//" target="_blank">
-    <img alt="pkugfam-WEB" src="https://img.shields.io/badge/plugfam WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
+    <img alt="plugfam-WEB" src="https://img.shields.io/badge/plugfam WEB-25D366?style=for-the-badge&logo=online&logoColor=white" />
 </a>
 <a aria-label="OTHER REPO" href="https://github.com/plugfam/Salifu-V1" target="_blank">
     <img alt="OTHER REPO" src="https://img.shields.io/badge/OTHER REPO-0E1241?style=for-the-badge&logo=github&logoColor=white" />
